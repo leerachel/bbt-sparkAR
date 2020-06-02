@@ -4,3 +4,5 @@ An instagram filter powered by Spark AR software. Created with the concept of dr
 Try it on IG: https://instagram.com/ar/2982224525191543/
 
 ![BBT demo](/img/BBT_demo.png)
+
+![BBT code](/img/patch_editor.png)
